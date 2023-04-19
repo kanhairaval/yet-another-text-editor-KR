@@ -22,7 +22,7 @@ module.exports = () => {
     },
     plugins: [
       new HtmlWebpackPlugin({
-        template: './src/index.html',
+        template: './index.html',
         title: 'JATE',
       }),
       new InjectManifest({
@@ -32,9 +32,9 @@ module.exports = () => {
       new WebpackPwaManifest({
         fingerprints: false,
         inject: true,
-        name: 'JATE',
+        name: 'Just Another Text Editor',
         short_name: 'JATE',
-        description: 'A simple text editor',
+        description: 'A simple text editor with offline capability',
         background_color: '#01579b',
         theme_color: '#ffffff',
         start_url: '/',
