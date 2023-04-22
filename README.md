@@ -39,6 +39,8 @@ If you have any questions about Yet Another Text Editor, you can contact me thro
 
 ## Deployed Link
 
-
+https://yet-another-texteditor.herokuapp.com/
 
 ## Screenshot
+
+![Screen Shot 2023-04-21 at 8 32 26 PM](https://user-images.githubusercontent.com/114125334/233752200-c7c2d6b2-0276-46ba-a014-d3f65e340d71.png)
